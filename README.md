@@ -1,2 +1,2 @@
 # python-basics
-This repo is used for my Python Basic training 
+This repo is used for my Python Basic training.
